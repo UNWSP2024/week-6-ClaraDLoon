@@ -1,4 +1,4 @@
-#Program #2: Tax Rate
+#Program #3: Tax Rate
 #Clara Riley
 #Luke Snell
 #10/11/24
